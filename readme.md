@@ -1,2 +1,2 @@
-Mancala game where computer plays using a descision tree with AlphaBeta pruning. 
-Created for MCON 368 in Touro College.
+A mancala game where the user can play against the computer.
+Uses minimax with AlphaBeta pruning.
