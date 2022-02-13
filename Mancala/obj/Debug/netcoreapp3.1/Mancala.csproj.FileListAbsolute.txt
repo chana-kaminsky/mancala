@@ -1,0 +1,26 @@
+C:\Users\Chana\Documents\Touro\Spring 2021\MCON 368\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.csprojAssemblyReference.cache
+C:\Users\Chana\Documents\Touro\Spring 2021\MCON 368\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.AssemblyInfoInputs.cache
+C:\Users\Chana\Documents\Touro\Spring 2021\MCON 368\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.AssemblyInfo.cs
+C:\Users\Chana\Documents\Touro\Spring 2021\MCON 368\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.csproj.CoreCompileInputs.cache
+C:\Users\Chana\Documents\Touro\Spring 2021\MCON 368\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.exe
+C:\Users\Chana\Documents\Touro\Spring 2021\MCON 368\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.deps.json
+C:\Users\Chana\Documents\Touro\Spring 2021\MCON 368\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.runtimeconfig.json
+C:\Users\Chana\Documents\Touro\Spring 2021\MCON 368\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.runtimeconfig.dev.json
+C:\Users\Chana\Documents\Touro\Spring 2021\MCON 368\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.dll
+C:\Users\Chana\Documents\Touro\Spring 2021\MCON 368\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.pdb
+C:\Users\Chana\Documents\Touro\Spring 2021\MCON 368\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.dll
+C:\Users\Chana\Documents\Touro\Spring 2021\MCON 368\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.pdb
+C:\Users\Chana\Documents\Touro\Spring 2021\MCON 368\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.genruntimeconfig.cache
+C:\Users\Chana\source\repos\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.exe
+C:\Users\Chana\source\repos\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.deps.json
+C:\Users\Chana\source\repos\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.runtimeconfig.json
+C:\Users\Chana\source\repos\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.runtimeconfig.dev.json
+C:\Users\Chana\source\repos\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.dll
+C:\Users\Chana\source\repos\Mancala\Mancala\bin\Debug\netcoreapp3.1\Mancala.pdb
+C:\Users\Chana\source\repos\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.AssemblyInfoInputs.cache
+C:\Users\Chana\source\repos\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.AssemblyInfo.cs
+C:\Users\Chana\source\repos\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.csproj.CoreCompileInputs.cache
+C:\Users\Chana\source\repos\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.dll
+C:\Users\Chana\source\repos\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.pdb
+C:\Users\Chana\source\repos\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.genruntimeconfig.cache
+C:\Users\Chana\source\repos\Mancala\Mancala\obj\Debug\netcoreapp3.1\Mancala.csprojAssemblyReference.cache
